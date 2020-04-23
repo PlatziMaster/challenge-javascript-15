@@ -1,6 +1,6 @@
 # Challenge - Maximum subarray sum
 
-Este problema consiste en buscar cual es la maxima suma de un secuencia de números de un array de enteros.
+Este problema consiste en buscar cual es la maxima suma de un secuencia de números en un array de enteros.
 
 
 # Ejemplo
