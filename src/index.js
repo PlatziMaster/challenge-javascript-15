@@ -31,4 +31,4 @@ const result = sequence([-2, 1, 1, 1, -2, 1, 1, 1, 1])
 console.log(result)
 
 
-module.exports = { maxSequence };
+module.exports = { sequence };
